@@ -1,6 +1,30 @@
-# 💫 About Me:
-<div align="center"><br><br><img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Aditya%20Vaishnav&fontAlign=50&fontAlignY=40&color=0:141E30,50:243B55,100:0F2027&fontColor=7CF7C6&fontSize=55&desc=Frontend%20Developer%20🚀&descAlignY=65&animation=fadeIn"/><br><br># 🌸 Welcome To My Digital World ✨<br><br><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=7CF7C6&center=true&vCenter=true&width=750&lines=Frontend+Developer+🚀;React.js+Enthusiast+⚛️;Building+Creative+Web+Experiences+✨;Anime+Lover+🌸;Always+Learning+New+Technologies+🌱" /><br><br><br/><br><br><img src="https://komarev.com/ghpvc/?username=adityavaishnav&label=PROFILE+VIEWS&color=7CF7C6&style=for-the-badge" /><br><br></div><br><br>---<br><br><img align="right" alt="Anime Coding" width="320" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding-anime.gif"><br><br># 🌙 About Me<br><br>```javascript<br>const aditya = {<br>    role: "Frontend Developer 🚀",<br>    language: ["JavaScript", "C/C++", "SQL"],<br>    technologies: ["React.js", "Tailwind CSS", "HTML5", "CSS3"],<br>    currentlyWorkingOn: "Dream-Miles Travel Website 🌍",<br>    currentlyLearning: [<br>        "Advanced React ⚛️",<br>        "API Integration 🌐",<br>        "Full-Stack Development 🚀",<br>        "DSA & Problem Solving 🧠"<br>    ],<br>    hobbies: ["Coding 💻", "Cricket 🏏", "Anime 🌸"],<br>    funFact: "I turn coffee ☕ into beautiful websites ✨"<br>};
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Aditya%20Vaishnav&fontAlign=50&fontAlignY=38&color=0:0F2027,50:203A43,100:2C5364&fontColor=7CF7C6&fontSize=50&desc=Frontend%20Developer%20🚀&descAlignY=62&animation=fadeIn"/>
+
+<h1>⚡ Hey, I'm Aditya Vaishnav ⚡</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=7CF7C6&center=true&vCenter=true&width=700&lines=Frontend+Developer+🚀;React.js+Developer+⚛️;Building+Modern+Web+Experiences+✨;Passionate+About+UI%2FUX+🎨;Always+Learning+New+Technologies+🌱"/>
+
+<img src="https://komarev.com/ghpvc/?username=adityavaishnav&label=PROFILE+VIEWS&color=7CF7C6&style=for-the-badge"/>
+
+</div>
+
+---
+
+<img align="right" width="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding-anime.gif"/>
+
+## 💫 About Me
+
+```javascript
+const aditya = {
+   role: "Frontend Developer 🚀",
+   skills: ["HTML5","CSS3","JavaScript","React.js","Tailwind CSS"],
+   currentlyWorkingOn: "Dream-Miles Travel Website 🌍",
+   currentlyLearning: ["Advanced React","API Integration","Full-Stack Development"],
+   tools: ["Git","GitHub","VS Code","MySQL"],
+   passion: "Creating modern, responsive & interactive web experiences ✨"
+};
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ditya.6319/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-vaishnav-b5b490327/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityavaishnav255@gmail.com) 
