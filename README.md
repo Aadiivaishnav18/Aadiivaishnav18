@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+<div align="center"><br><br><img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Aditya%20Vaishnav&fontAlign=50&fontAlignY=40&color=0:141E30,50:243B55,100:0F2027&fontColor=7CF7C6&fontSize=55&desc=Frontend%20Developer%20🚀&descAlignY=65&animation=fadeIn"/><br><br># 🌸 Welcome To My Digital World ✨<br><br><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=7CF7C6&center=true&vCenter=true&width=750&lines=Frontend+Developer+🚀;React.js+Enthusiast+⚛️;Building+Creative+Web+Experiences+✨;Anime+Lover+🌸;Always+Learning+New+Technologies+🌱" /><br><br><br/><br><br><img src="https://komarev.com/ghpvc/?username=adityavaishnav&label=PROFILE+VIEWS&color=7CF7C6&style=for-the-badge" /><br><br></div><br><br>---<br><br><img align="right" alt="Anime Coding" width="320" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding-anime.gif"><br><br># 🌙 About Me<br><br>```javascript<br>const aditya = {<br>    role: "Frontend Developer 🚀",<br>    language: ["JavaScript", "C/C++", "SQL"],<br>    technologies: ["React.js", "Tailwind CSS", "HTML5", "CSS3"],<br>    currentlyWorkingOn: "Dream-Miles Travel Website 🌍",<br>    currentlyLearning: [<br>        "Advanced React ⚛️",<br>        "API Integration 🌐",<br>        "Full-Stack Development 🚀",<br>        "DSA & Problem Solving 🧠"<br>    ],<br>    hobbies: ["Coding 💻", "Cricket 🏏", "Anime 🌸"],<br>    funFact: "I turn coffee ☕ into beautiful websites ✨"<br>};
 
-<!--
-**Aadiivaishnav18/Aadiivaishnav18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ditya.6319/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-vaishnav-b5b490327/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityavaishnav255@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Aadiivaishnav18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Aadiivaishnav18&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aadiivaishnav18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Aadiivaishnav18&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
